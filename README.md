@@ -12,3 +12,7 @@ We have not provided breakpoint specific comps. You will need to employ some cre
 
 Original Image
 ![alt text](https://github.com/jaredeklin/je-comp-challenge-1/blob/master/static-comp-challenge-1.jpg "Original Design")
+
+
+My Design
+![alt Text](https://github.com/jaredeklin/je-comp-challenge-1/blob/master/My%20Version.png) "My design"
