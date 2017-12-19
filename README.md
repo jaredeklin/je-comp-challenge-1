@@ -10,5 +10,5 @@ We have not provided you with any assets, nor native files. You will have to sou
 
 We have not provided breakpoint specific comps. You will need to employ some creativity here with a heavy dose of good judgment. Think about how you, as a user, could best experience the content/layout across various screen sizes. Is the content legible? Does the imagery (especially full bleed background images) still make sense and look good? Do portions of the nav become icons (and are they intuitive?), or a menu?
 
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Original Image
+![alt text](https://github.com/jaredeklin/je-comp-challenge-1/blob/master/static-comp-challenge-1.jpg "Original Design")
